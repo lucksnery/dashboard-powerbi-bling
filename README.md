@@ -50,7 +50,7 @@ Após salvar, serão gerados:
 
 📷 *Exemplo de configuração no Bling:*
 
-![Configuração API Bling](imgs/img01.png)
+![Configuração API Bling](imgs/img01.jpeg)
 
 ---
 
@@ -75,7 +75,7 @@ Crie uma planilha chamada **Autenticação Bling** no Google Drive com a estrutu
 
 📷 *Exemplo de estrutura no Google Apps Script:*
 
-![Scripts no Apps Script](imgs/img02.png)
+![Scripts no Apps Script](imgs/img02.jpeg)
 
 ---
 
